@@ -6,12 +6,7 @@ Hola soy Aitor y actualmente estudio un ciclo superior de Desarollo de Aplicacio
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Aitor-RL&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=EB5454)](https://git.io/streak-stats)
 	
-	<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
-</p>
-
+	
 
 <h3 align="center">Mis conocimientos</h3>
 
