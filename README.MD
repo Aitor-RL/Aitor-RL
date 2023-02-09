@@ -5,11 +5,11 @@ Hola soy Aitor y actualmente estudio un ciclo superior de Desarollo de Aplicacio
 
 	System.out.println("------MODIFICA info de la persona--------");
 
-<p align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Aitor-RL&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=EB5454)](https://git.io/streak-stats)
 	
 	
-</p>
+
 
 <h3 align="center">Mis conocimientos</h3>
 
