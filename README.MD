@@ -3,7 +3,7 @@ Hola soy Aitor y actualmente estudio un ciclo superior de Desarollo de Aplicacio
 ![pr](https://user-images.githubusercontent.com/91945490/206936243-c4cbf43c-ba8d-4cdc-ac31-a496e8572efc.gif)
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Mis conocimientos</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
