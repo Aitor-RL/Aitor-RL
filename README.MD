@@ -3,6 +3,12 @@ Hola soy Aitor y actualmente estudio un ciclo superior de Desarollo de Aplicacio
 ![pr](https://user-images.githubusercontent.com/91945490/206936243-c4cbf43c-ba8d-4cdc-ac31-a496e8572efc.gif)
 
 
+	System.out.println("------MODIFICA info de la persona--------");
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aitor-RL&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=EB5454)](https://git.io/streak-stats)
+
+
 <h3 align="center">Mis conocimientos</h3>
 
 <h3 align="left">Languages and Tools:</h3>
